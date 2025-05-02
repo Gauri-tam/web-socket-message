@@ -1,4 +1,4 @@
-Websocket Application step
+**Websocket Application step**
 
 follow the following link for the code and understanding
 https://medium.com/@javatechie/build-real-time-notifications-in-spring-boot-applications-websocket-1d5a452c528c
